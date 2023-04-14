@@ -1,0 +1,43 @@
+.whole
+{
+    position: relative;
+    margin: 25px;
+    width: 250px;
+    padding: 100px;
+    left: 320px;
+   
+}
+.logo
+{
+    position: relative;
+    left: 50px;
+    top: -15px;
+}
+.Sign
+{
+  font-size: 30px;
+  font: weight 200px;
+  font-family: cursive;
+  position: relative;
+  top: -30px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+
+  }
+  .box
+  {
+    position: relative;
+    border: 1px solid gray;
+    width: 250px;
+    padding: 25px;
+    left: -65px;
+    top: -50px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+  }
+
+  
+
+
