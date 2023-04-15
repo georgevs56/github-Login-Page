@@ -4,7 +4,8 @@
     margin: 25px;
     width: 250px;
     padding: 100px;
-    left: 320px;
+    left: 450px;
+    top: -50px;
    
 }
 .logo
@@ -31,12 +32,81 @@ form {
     position: relative;
     border: 1px solid gray;
     width: 250px;
-    padding: 25px;
+    padding: 30px;
     left: -65px;
     top: -50px;
     border-radius: 20px;
-    background-color: whitesmoke;
+background-color: aliceblue;  }
+
+  input[type="text"],input[type="password"]
+  {
+   
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: none;
   }
+  .p
+  {
+    margin: none;
+    border: none;
+    padding: 15px;
+    position: relative;
+    top: -70px;
+  }
+  button[type="submit"]
+  {
+    margin: none;
+    padding:7px;
+    position: relative;
+    top: 20px;
+    left: 0px;
+    border-radius: 20px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+
+  }
+  input[type="email"]
+  {
+    position: relative;
+    margin: none;
+    top:-5px ;
+    
+  }
+  .account
+  {
+    border: 1px solid black;
+    margin: 10px;
+    width: 250px;
+    padding: 15px;
+    position: relative;
+    top: -40px;
+    left: -60px;
+    border-radius: 5px;
+    background-color: aliceblue;
+
+  }
+  .a
+  {
+    color: blue;
+  }
+  .policy
+  {
+    position:relative;
+     
+    width:400px;
+    left:500px;
+    top:-220px
+    
+  }
+    
+
+
+  
+
+
 
   
 
